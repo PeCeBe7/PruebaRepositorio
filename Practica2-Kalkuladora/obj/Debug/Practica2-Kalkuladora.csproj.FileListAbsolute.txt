@@ -1,0 +1,10 @@
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\bin\Debug\Practica2-Kalkuladora.exe.config
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\bin\Debug\Practica2-Kalkuladora.exe
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\bin\Debug\Practica2-Kalkuladora.pdb
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2-Kalkuladora.csprojAssemblyReference.cache
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2_Kalkuladora.FormMain.resources
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2_Kalkuladora.Properties.Resources.resources
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2-Kalkuladora.csproj.GenerateResource.cache
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2-Kalkuladora.csproj.CoreCompileInputs.cache
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2-Kalkuladora.exe
+C:\Users\polcu\source\repos\Practica2-Kalkuladora\Practica2-Kalkuladora\obj\Debug\Practica2-Kalkuladora.pdb
